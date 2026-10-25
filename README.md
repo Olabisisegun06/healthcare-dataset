@@ -41,6 +41,10 @@ This project demonstrates how Microsoft Excel can be used to organise healthcare
 
 - `healthcare_dataset.csv.xlsx` — Excel workbook containing the dataset, report, and dashboard.
 
+- ## Dashboard preview
+- <img width="1322" height="398" alt="Health Dashbord" src="https://github.com/user-attachments/assets/d85f3d03-e93a-4da4-bc1e-c8696c4db317" />
+
+
 ## Author
 
 **Olabisi Oluwasegun Ajao**
